@@ -1,11 +1,11 @@
 beautifulsoup4==4.9.3
-certifi==2020.11.8
+certifi==2024.7.4
 chardet==3.0.4
-idna==2.10
-lxml==4.6.1
-requests==2.25.0
-soupsieve==2.0.1
-urllib3==1.26.2
+idna==3.15
+lxml==6.1.0
+requests==2.33.0
+soupsieve==2.9
+urllib3==2.7.0
 openpyxl
 tqdm~=4.62.1
 pytest~=6.2.2
